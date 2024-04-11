@@ -1,0 +1,17 @@
+{
+    "marketplace_prod": {
+        "host": "35.222.31.142",
+        "db": "postgress",
+        "user": "postgress",
+        "password": "admin",
+        "port": "5434"
+    },
+    "dwh": {
+        "host": "35.222.31.142",
+ "db": "postgress",
+ "user": "postgress",
+ "password": "admin",
+ "port": "5434"      
+    }
+    
+}
